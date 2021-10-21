@@ -17,7 +17,7 @@ Infos{
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg">
   <img align="center" alt="Rafa-Oracle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
-  <img align="right" alt="Luiz-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/900576348505002074/900576348505002077/900591099679219723">
+  <img align="right" alt="Luiz-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/900576348505002077/900591099830239292/picasion.com_b354628290a7cad0255d880dce0a426d.gif">
 </div>
   
   ##
