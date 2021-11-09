@@ -3,7 +3,7 @@
 Infos{
   "Linguagens " : ["SQL", "C#", "Python", "PHP", "SAP Cloud Application"],
   "Experiencia " : "1 ano",
-  "Frameworks " : [".Net Framework", ".Net Core", "SQL Server Integration Services", "SQL Server Analyses Services", "Django", "Django RestFramework", "Flask"]
+  "Frameworks " : [".Net Framework", ".Net Core", "SQL Server Integration Services", "SQL Server Dataengine", "Django", "Django RestFramework", "Flask"]
 }
 
 
