@@ -1,11 +1,5 @@
 ## Olá, eu sou o Luiz Fernando 👋🏻
 
-Infos{
-  "Linguagens " : ["SQL", "C#", "Python", "PHP", "SAP Cloud Application"],
-  "Experiencia " : "1 ano",
-  "Frameworks " : [".Net Framework", ".Net Core", "SQL Server Integration Services", "SQL Server Dataengine", "Django", "Django RestFramework", "Flask"]
-}
-
 
 <div align="center">
   <a href="https://github.com/FernandoLuiz-web">
