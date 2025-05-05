@@ -3,7 +3,7 @@
 ## 🚀 Sobre mim
 
 ```
--🚀 Apaixonado por tecnologia e desenvolvimento de software,
+🚀 Apaixonado por tecnologia e desenvolvimento de software,
      meu primeiro contato com programação aconteceu aos 15 anos,
      explorando linguagens de baixo nível como C++. Desde então,
      minha jornada foi marcada por aprendizado e evolução contínua.
